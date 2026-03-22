@@ -42,8 +42,3 @@ A curated collection of Power BI dashboards and datasets demonstrating expertise
 - API integration
 
 ---
-
-## 📈 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hiutkarshhere/PowerBI-Projects.git
